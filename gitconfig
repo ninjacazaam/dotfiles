@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = coreypozzatiellis@gmail.com
+	name = Corey Ellis
